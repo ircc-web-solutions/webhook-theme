@@ -1,0 +1,24 @@
+{
+  "name": "webhook-theme",
+  "version": "1.0.0",
+  "description": "Webhook to respond to master repo checkins for wet-boew themes and perform theme builds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ircc-web-solutions/webhook-theme.git"
+  },
+  "keywords": [
+    "wet-bow",
+    "webhook",
+    "theme"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ircc-web-solutions/webhook-theme/issues"
+  },
+  "homepage": "https://github.com/ircc-web-solutions/webhook-theme#readme"
+}
